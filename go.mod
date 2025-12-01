@@ -1,4 +1,4 @@
-module github.com/cpu/go-acvp
+module github.com/geomys/acvp-testdata
 
 go 1.22.5
 
